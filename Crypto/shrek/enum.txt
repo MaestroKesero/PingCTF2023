@@ -1,0 +1,6 @@
+Flag format: ping{.*}
+
+Somebody once told me... But I don't get it.
+
+nc shrek.knping.pl 50000
+

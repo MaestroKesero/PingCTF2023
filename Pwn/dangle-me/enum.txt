@@ -1,0 +1,5 @@
+Flag format: ping{.*}
+
+Are you ready to ascend and receive wisdom? If you're worthy enough, the Goddess may even spill some indisputable truths about her world...
+
+nc dangle-me.knping.pl 30000

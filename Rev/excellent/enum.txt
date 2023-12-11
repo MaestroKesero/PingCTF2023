@@ -1,0 +1,5 @@
+Flag format: ping{.*}
+
+Can you prove your excel skills? Copy the document and find valid flag!
+
+Checkout my sheet here

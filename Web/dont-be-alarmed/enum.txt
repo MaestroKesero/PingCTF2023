@@ -1,0 +1,6 @@
+Flag format: ping{.*}
+
+I found this really simple (kinda bugged) game online, and loved it! Can you beat my highscore?
+
+https://dont-be-alarmed.knping.pl
+

@@ -1,0 +1,5 @@
+Flag format: ping{.*}
+
+Can you pass the path traversal exam? 👀 There might be some requirements tho for your specie...
+
+https://path-traversal-101.knping.pl

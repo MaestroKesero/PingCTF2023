@@ -1,0 +1,7 @@
+Flag format: ping{.*}
+
+Our team intercepted an machine from the enemy, but it suffered damage during transport, causing rotor and plugboard disarray. Your mission is to reconstruct the machine configuration, determine the missing plugboard connection, and decrypt the given ciphertext. Key components:
+
+Rotors: BDFHJLCPRTXVZNYEIWGAKMUSQO, AJDKSIRUXBLHWTMCQGZNPYFVOE, EKMFLGDQVZNTOWYHXUSPAIBRCJ Reflector: EJMZALYXVBWFCRQUONTSPIKHGD Partial plugboard image provided. Ciphertext: dvgs{atrpwb_pxr_mwqlqrxsqggc_crsrv_xiwdtyu_fdp}
+
+

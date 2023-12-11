@@ -1,0 +1,5 @@
+Flag format: ping{.*}
+
+That's a quite musical robot! Can you convince it that you are a robot too?
+
+nc you-spin-me-round.knping.pl 20000

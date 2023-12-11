@@ -1,0 +1,2 @@
+Era un cifrado cesar por fuerza bruta pero era rarisimo ya que salian las cosas super dispersas y no
+salia la flag directamente, habia una fecha por un lado, luego bc por otro, los corchetes por otro y luego era todo en minuscula 

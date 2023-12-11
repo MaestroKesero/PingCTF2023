@@ -1,0 +1,5 @@
+Flag format: ping{.*}
+
+Can you run Internet Explorer on Linux?
+
+https://internet-explorer.knping.pl

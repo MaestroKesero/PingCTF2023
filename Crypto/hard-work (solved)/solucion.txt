@@ -1,0 +1,2 @@
+es una cadena de hexadecimal, luego era una cadena en octal, luego en binario y por ultimo
+en base64, de ahi se sacaba la flag

@@ -1,0 +1,6 @@
+Flag format: ping{.*}
+
+Mother, you scooped out my eyes with a spoon so I wouldn't see the filth.
+
+nc without-love-it-cannot-be-seen.knping.pl 30001
+

@@ -1,0 +1,3 @@
+>Flag format: ping{.*}
+
+I heard that there are is no official nc for windows and I love this OS! Fortunately, my black hat hacker colleague has sent me his forged copy that he intercepted from other hackers which have intercepted it from others and that from others... I don't know how many times it was intercepted but it works! I have tested it on my Windows 10 and it works like a charm
