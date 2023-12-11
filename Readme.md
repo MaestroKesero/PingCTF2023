@@ -10,4 +10,20 @@ Apartado para subir todos los ejercicios de cada categoria en la competicion Pin
 
 ## Writeups Resueltos
 
-Todos los ejercicios estan resueltos por miembros de la organización junto algun jugador que haya querido aportar sus propias soluciones.
+Todos los ejercicios tienen pautas por los miembros de la organización para resolver cada ejercicio.
+
+- **Cripto**
+    - **Criptografía simétrica**
+        - [Ancient-Genius](/blob/master/Writeups/Crypto/ancient-genius/write-up.md)
+
+    - **Criptografía asimétrica**
+        - [Diffie-Hellman](/asymmetric/diffie-hellman/README.md)
+     
+    - 
+- **Soluciones de competiciones CTF**
+    - [SECCON CTF 2023 Quals](/writeups/SECCON_CTF_2023_Quals/README.md)
+    - [CTFZone 2023 Quals](/writeups/CTFZone_2023_Quals/README.md)
+    - [ImaginaryCTF 2023](/writeups/ImaginaryCTF_2023/README.md)
+    - [Google CTF 2023](/writeups/Google_CTF_2023/README.md)
+    - [Break the Syntax CTF 2023](/writeups/Break_the_Syntax_CTF_2023/README.md)
+    - [TJCTF 2023](/writeups/TJCTF_2023/README.md)
