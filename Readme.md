@@ -14,8 +14,9 @@ Todos los ejercicios tienen pautas por los miembros de la organización para res
 
 - **Cripto**
     - **Criptografía simétrica**
-        - [Ancient-Genius](/blob/master/Writeups/Crypto/ancient-genius/write-up.md)
-
+        - [Ancient-Genius](/Writeups/Crypto/ancient-genius/write-up.md)
+     
+          
     - **Criptografía asimétrica**
         - [Diffie-Hellman](/asymmetric/diffie-hellman/README.md)
      
