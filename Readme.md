@@ -1,7 +1,7 @@
 # PingCTF2023
 
 Apartado para subir todos los ejercicios de cada categoria en la competicion PingCTF2023
-![Logo CriptoHack](https://github.com/MaestroKesero/PingCTF2023/blob/main/Wallpaper.png)
+![Logo CriptoHack](https://github.com/MaestroKesero/PingCTF2023/blob/master/Wallpaper.png)
 
 ## Rubrica
 
