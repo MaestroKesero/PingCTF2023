@@ -8,4 +8,5 @@ Apartado para subir todos los ejercicios de cada categoria en la competicion Pin
 - name (solved) -> Ejercicios Resueltos por el equipo (no hechos).
 
 ## Writeups Resueltos
-- https://www.youtube.com/watch?v=RaYU3hN88DA --> Skilift, ARISAI, Los-ifer, My first Webside, Glacier Exchange, Peak; WhereIsTheScope, FunChannel, Glacier Raiting, outro/
+
+Todos los ejercicios estan resueltos por miembros de la organización junto algun jugador que haya querido aportar sus propias soluciones.
